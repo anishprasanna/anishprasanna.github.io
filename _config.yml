@@ -1,11 +1,11 @@
-title: Anish G. Prasanna # your name (or website title) here
-logo: "/images/ab.png?raw=true" # your photo (or logo) here
+title: Anish G. Prasanna
+logo: "/images/ab.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my website! Currently, I am a senior at Wake Forest University majoring in Mathematical Statistics and Computer Science. My main interests revolove around finding insights in Data through Machine Learning, and Data Visualization.  
   <br><br>
-  Second description 
+  Check out my resume [here]( anishprasanna.github.io/images/Resume - Anish Prasanna.doc ) 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/anish-prasanna-05b986124/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
