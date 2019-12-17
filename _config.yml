@@ -3,7 +3,7 @@ logo: "/images/ab.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my website! Currently, I am a senior at Wake Forest University majoring in Mathematical Statistics and Computer Science. My main interests revolove around finding insights in Data through Machine Learning, and Data Visualization.  
   <br><br>
-  Check out my resume [here]( anishprasanna.github.io/images/Resume - Anish Prasanna.doc ) 
+  <a href="anishprasanna.github.io/images/Resume - Anish Prasanna.doc">Check out my resume</a>
   <br><br>
   <a href="https://www.linkedin.com/in/anish-prasanna-05b986124/">View My LinkedIn Profile</a> 
   
